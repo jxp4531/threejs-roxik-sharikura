@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/threejs-roxik-sharikura/precache-manifest.57c87ac65798834c9e9511d55ca0779f.js"
+  "/threejs-roxik-sharikura/precache-manifest.a548431ef28c5aaad7d0256402195bc2.js"
 );
 
 workbox.clientsClaim();

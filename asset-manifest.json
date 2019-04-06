@@ -1,13 +1,13 @@
 {
-  "main.css": "/static/css/main.69e21bf3.chunk.css",
-  "main.js": "/static/js/main.c14621c8.chunk.js",
-  "main.js.map": "/static/js/main.c14621c8.chunk.js.map",
-  "runtime~main.js": "/static/js/runtime~main.c5541365.js",
-  "runtime~main.js.map": "/static/js/runtime~main.c5541365.js.map",
-  "static/js/2.f11c70c9.chunk.js": "/static/js/2.f11c70c9.chunk.js",
-  "static/js/2.f11c70c9.chunk.js.map": "/static/js/2.f11c70c9.chunk.js.map",
-  "index.html": "/index.html",
-  "precache-manifest.b06533351fe8b6bb4ac214f703d74b47.js": "/precache-manifest.b06533351fe8b6bb4ac214f703d74b47.js",
-  "service-worker.js": "/service-worker.js",
-  "static/css/main.69e21bf3.chunk.css.map": "/static/css/main.69e21bf3.chunk.css.map"
+  "main.css": "/threejs-roxik-sharikura/static/css/main.69e21bf3.chunk.css",
+  "main.js": "/threejs-roxik-sharikura/static/js/main.c6f94988.chunk.js",
+  "main.js.map": "/threejs-roxik-sharikura/static/js/main.c6f94988.chunk.js.map",
+  "runtime~main.js": "/threejs-roxik-sharikura/static/js/runtime~main.e6d79c18.js",
+  "runtime~main.js.map": "/threejs-roxik-sharikura/static/js/runtime~main.e6d79c18.js.map",
+  "static/js/2.6cbc5454.chunk.js": "/threejs-roxik-sharikura/static/js/2.6cbc5454.chunk.js",
+  "static/js/2.6cbc5454.chunk.js.map": "/threejs-roxik-sharikura/static/js/2.6cbc5454.chunk.js.map",
+  "index.html": "/threejs-roxik-sharikura/index.html",
+  "precache-manifest.a548431ef28c5aaad7d0256402195bc2.js": "/threejs-roxik-sharikura/precache-manifest.a548431ef28c5aaad7d0256402195bc2.js",
+  "service-worker.js": "/threejs-roxik-sharikura/service-worker.js",
+  "static/css/main.69e21bf3.chunk.css.map": "/threejs-roxik-sharikura/static/css/main.69e21bf3.chunk.css.map"
 }

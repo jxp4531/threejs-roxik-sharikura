@@ -1,11 +1,11 @@
 self.__precacheManifest = [
   {
-    "revision": "ad7c3f1fcbc1d14be005",
+    "revision": "100f4a1fc7e40e98f3ac",
     "url": "/threejs-roxik-sharikura/static/css/main.69e21bf3.chunk.css"
   },
   {
-    "revision": "ad7c3f1fcbc1d14be005",
-    "url": "/threejs-roxik-sharikura/static/js/main.c6f94988.chunk.js"
+    "revision": "100f4a1fc7e40e98f3ac",
+    "url": "/threejs-roxik-sharikura/static/js/main.7c4d5ace.chunk.js"
   },
   {
     "revision": "d121de162d6422804429",
@@ -16,7 +16,7 @@ self.__precacheManifest = [
     "url": "/threejs-roxik-sharikura/static/js/2.6cbc5454.chunk.js"
   },
   {
-    "revision": "fb38265af9dec037318ba7618af3da85",
+    "revision": "1cfe5052b11a5451439c9fa7cd78b968",
     "url": "/threejs-roxik-sharikura/index.html"
   }
 ];
